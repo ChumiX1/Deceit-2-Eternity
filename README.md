@@ -4,9 +4,9 @@
 
 ![default](https://github.com/ChumiX1/Deceit-2-Eternity/assets/169942233/98c818cb-c1b3-4bdb-812d-61db1b8f8846)
 
-![ow6ZP0X](https://github.com/ChumiX1/Deceit-2-Eternity/assets/169942233/951eacc8-de04-4f90-acc9-14a25654dea1)
+![ow6ZP0X](https://github.com/ChumiX1/Deceit-2-Eternity/assets/169942233/5996e820-66fb-43cf-9fdf-3ebbb1252c4e)
 
-# Options
+# ⚙️Options
 
 ### Visuals:
 
